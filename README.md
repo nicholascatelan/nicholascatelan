@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Cursando Engenharia de Software(ESW)<br>-1 ano de estudo</p>
+<p align="left">-Cursando Engenharia de Software(ESW)</p>
 
 ###
 
