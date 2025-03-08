@@ -47,8 +47,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/nicholascatelan/nicholascatelan/output/snake.svg" alt="Snake animation" />
-
-###
