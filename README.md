@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Cursando Engenharia de Software</p>
+<p align="left">-Cursando Engenharia de Software na UniCV Maringá/PR</p>
 
 ###
 
