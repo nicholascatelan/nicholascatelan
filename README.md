@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left">-Cursando Engenharia de Software na UniCV Maringá/PR</p>
+<p align="left">🎓 Cursando Engenharia de Software na UniCV (Maringá/PR). 💻 Desenvolvedor focado em Back-end, com interesse em arquitetura de sistemas e soluções escaláveis. 🚀 Atualmente aprimorando meus conhecimentos em Python e buscando novos desafios tecnológicos.</p>
 
 ###
-
-<p align="left">-Programador Back-end</p>
 
 ###
 
@@ -19,9 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
