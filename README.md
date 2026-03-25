@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Cursando Engenharia de Software na UniCV (Maringá/PR). Desenvolvedor focado em Back-end, com interesse em arquitetura de sistemas e soluções escaláveis. Atualmente aprimorando meus conhecimentos em Python,Java,MySQL e buscando novos desafios tecnológicos.</p>
+<p align="left">🎓 Cursando Engenharia de Software na UniCV (Maringá/PR). Desenvolvedor focado em Back-end, com interesse em arquitetura de sistemas e soluções escaláveis. Atualmente aprimorando meus conhecimentos em Python, Java, MySQL e buscando novos desafios tecnológicos.</p>
 
 ###
 
